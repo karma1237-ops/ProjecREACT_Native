@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# iOS / Android build files
+ios/build/
+android/build/
+
+# MacOS / Windows files
+.DS_Store
+Thumbs.db
